@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+
+h1{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    margin-left: 6px;
+}
+
+.input{
+    display: flex;
+}
+
+form {
+padding: 8px;
+}
+
+table {
+border-collapse: collapse;
+width: 540px;
+margin: 10px;
+height: 45px;
+}
+
+table td, table th {
+ border: solid 1px #f3c136;
+ width: 100px;
+ height: 45px;
+}
+
+table th{
+    background: #f3c136;
+    font-size: 13px;
+}
+table td {
+    background: rgba(37, 0, 88, 0.815);
+}
+label,input, button {
+margin: 4px 1px;
+font-size: 14px;
+width: 170px;
+
+ } 
+button{
+ 
+   width: 173px;
+  } 
